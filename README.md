@@ -41,10 +41,13 @@ Answer the following questions based on your understanding of the installation a
     a. Activity Bar:
          The Activity Bar is located on the far left-hand side of the user interface of VS Code. 
          It helps you to switch between views and open panels such the explorer, search tool, source control panel extensions, etc. Though the Activity fixed at the left side of the window on default, the position can be changed from the view menu.
+
       b. Side Bar:
          The side bar contains different views like the Explorer to assist you while working on your project. It also views plugins and extensions when the extension button is clicked as well as any other panel shown on the activity bar.
+
       c. Editor Group:
          This is the main area where files are created and edited. Many editors can be opened side by side vertically and horizontally.
+         
       c. Status Bar:
          Information about the opened project and the files you edit.
   
